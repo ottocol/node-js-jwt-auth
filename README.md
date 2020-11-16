@@ -1,5 +1,12 @@
 # Node.js – JWT Authentication & Authorization example with JSONWebToken & Sequelize
 
+El excelente ejemplo original de bezkoder, únicamente cambiado a sqlite con fichero local en lugar de mysql con servidor para que sea más sencillo de probar.
+
+Hay dos usuarios ya creados:
+
+- `adi`, con password `adi` y roles `user`, `moderator`, y `admin`
+- `vue`, con password `vue` y rol `user`
+
 For more detail, please visit:
 > [Node.js JWT Authentication & Authorization example](https://bezkoder.com/node-js-jwt-authentication-mysql/)
 
